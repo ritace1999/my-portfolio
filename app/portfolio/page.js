@@ -30,6 +30,13 @@ export default function Portfolio() {
       link: "https://github.com/ritace1999/my-portfolio",
       image: images.Portfolio,
     },
+    {
+      _id: "3",
+      title: "Babble-Buddy",
+      desc: "The Babble Buddy app is a realtime chat app powered by Next Js, Node.js, Express.js and MongoDB",
+      link: "https://github.com/ritace1999/Babble-Buddy",
+      image: images.BabbleBuddy,
+    },
   ];
 
   return (

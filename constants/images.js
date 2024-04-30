@@ -13,6 +13,7 @@ import GitHub from "../public/logos/github.png";
 import VsCode from "../public/logos/vsCode.png";
 import Mern from "../public/Projects/Mern.png";
 import Portfolio from "../public/Projects/portfolio.png";
+import BabbleBuddy from "../public/Projects/BabbleBuddy.png";
 
 const images = {
   HeroImage,
@@ -30,5 +31,6 @@ const images = {
   VsCode,
   Mern,
   Portfolio,
+  BabbleBuddy,
 };
 export default images;
