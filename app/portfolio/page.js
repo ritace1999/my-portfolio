@@ -40,7 +40,7 @@ export default function Portfolio() {
   ];
 
   return (
-    <HomeLayout>
+    <HomeLayout className="h-[80vh]">
       <div className="flex w-full h-full overflow-y-auto mx-auto">
         <div
           className={` my-auto mx-12  cursor-pointer ${

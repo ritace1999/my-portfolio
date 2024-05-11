@@ -17,7 +17,7 @@ export default function Home() {
 
   return (
     <>
-      <HomeLayout>
+      <HomeLayout className="h-[80vh]">
         <div className="flex w-full h-full overflow-y-auto">
           <div
             className={`flex flex-col m-10 w-full h-full gap-y-2 ${

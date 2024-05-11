@@ -29,7 +29,7 @@ export default function Home() {
   };
 
   return (
-    <HomeLayout>
+    <HomeLayout className="h-[80vh]">
       <div className="flex w-full h-full">
         <div
           className={`my-auto mx-16 h-[380px] w-[380px] rounded-full shadow-[0_20px_50px_rgba(8,_112,_184,_0.7)] cursor-pointer ${
